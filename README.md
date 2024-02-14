@@ -1,6 +1,6 @@
 # NLP Lab on text classification
 
-to start :
+## if you want to run the notebook locally
 
 * clone the code: ```git clone git@github.com:Rouen-NLP/nlp-lab-text-classification.git```
 * create a virtual environment: ```virtualenv -p python3 nlp-env```
@@ -10,4 +10,11 @@ to start :
 * run jupyter: ```jupyter notenook```
 * run the notebook and change the kernel to nlp-env
 * start coding
+
+## if you want to use Google Colab
+
+* log in https://colab.research.google.com/
+* in the File menu, Open notebook -> Guthub
+* copy/paste the github URL
+*  open the notebook file and start coding
 
