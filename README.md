@@ -14,7 +14,8 @@
 ## if you want to use Google Colab
 
 * log in https://colab.research.google.com/
-* in the File menu, Open notebook -> Guthub
+* in the File menu, Open notebook -> Github
 * copy/paste the github URL
 *  open the notebook file and start coding
+*  upload the data files in `/content/`if needed
 
