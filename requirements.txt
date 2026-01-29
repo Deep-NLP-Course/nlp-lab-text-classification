@@ -4,3 +4,6 @@ scikit-learn==1.7.2
 wordcloud==1.9.6
 seaborn==0.13.2
 transformers==5.0.0
+sentence-transformers==5.2.2
+torch==2.10.0
+torchvision==0.25.0
