@@ -2,7 +2,9 @@
 
 ## if you want to run the notebook locally
 
-* clone the code: ```git clone git@github.com:Deep-NLP-Course/nlp-lab-text-classification.git```
+* clone the code:
+   *  with a ssh key : ```git clone git@github.com:Deep-NLP-Course/nlp-lab-text-classification.git```
+   *  without a ssh key : ```git clone https://github.com/Deep-NLP-Course/nlp-lab-text-classification.git```
 * create a virtual environment: ```virtualenv -p python3 nlp-env```
 * activate the virtual env: ```source nlp-env/bin/activate```
 * install the required packages:  ```pip install -r requirements.txt```
